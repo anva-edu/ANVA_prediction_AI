@@ -1,0 +1,7 @@
+type: web
+name: fastapi-ml-api
+environment: python
+plan: free
+buildCommand: "pip install -r requirements.txt"
+startCommand: "bash start.sh"
+autoDeploy: true

@@ -1,0 +1,10 @@
+# Data and models
+/data/
+/models/
+*.pkl
+*.h5
+*.csv
+*.log
+__pycache__/
+.ipynb_checkpoints/
+.env
